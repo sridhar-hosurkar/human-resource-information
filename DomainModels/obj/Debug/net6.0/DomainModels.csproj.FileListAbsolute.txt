@@ -1,0 +1,14 @@
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.csproj.AssemblyReference.cache
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.AssemblyInfoInputs.cache
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.AssemblyInfo.cs
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.csproj.CoreCompileInputs.cache
+c:\net core\Human Resource\DomainModels\bin\Debug\net6.0\DomainModels.deps.json
+c:\net core\Human Resource\DomainModels\bin\Debug\net6.0\DomainModels.runtimeconfig.json
+c:\net core\Human Resource\DomainModels\bin\Debug\net6.0\DomainModels.dll
+c:\net core\Human Resource\DomainModels\bin\Debug\net6.0\DomainModels.pdb
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.dll
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\refint\DomainModels.dll
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.pdb
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\DomainModels.genruntimeconfig.cache
+c:\net core\Human Resource\DomainModels\obj\Debug\net6.0\ref\DomainModels.dll

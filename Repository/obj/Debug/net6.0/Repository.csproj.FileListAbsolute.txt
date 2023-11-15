@@ -1,0 +1,15 @@
+c:\net core\Human Resource\Repository\bin\Debug\net6.0\Repository.deps.json
+c:\net core\Human Resource\Repository\bin\Debug\net6.0\Repository.dll
+c:\net core\Human Resource\Repository\bin\Debug\net6.0\Repository.pdb
+c:\net core\Human Resource\Repository\bin\Debug\net6.0\DomainModels.dll
+c:\net core\Human Resource\Repository\bin\Debug\net6.0\DomainModels.pdb
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.dll
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\refint\Repository.dll
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\Repository.pdb
+c:\net core\Human Resource\Repository\obj\Debug\net6.0\ref\Repository.dll

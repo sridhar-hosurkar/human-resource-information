@@ -1,0 +1,12 @@
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ServiceModels.csproj.AssemblyReference.cache
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ServiceModels.GeneratedMSBuildEditorConfig.editorconfig
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ServiceModels.AssemblyInfoInputs.cache
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ServiceModels.AssemblyInfo.cs
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ServiceModels.csproj.CoreCompileInputs.cache
+c:\net core\Human Resource\ServiceModels\bin\Debug\net6.0\ServiceModels.deps.json
+c:\net core\Human Resource\ServiceModels\bin\Debug\net6.0\ServiceModels.dll
+c:\net core\Human Resource\ServiceModels\bin\Debug\net6.0\ServiceModels.pdb
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ServiceModels.dll
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\refint\ServiceModels.dll
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ServiceModels.pdb
+c:\net core\Human Resource\ServiceModels\obj\Debug\net6.0\ref\ServiceModels.dll
