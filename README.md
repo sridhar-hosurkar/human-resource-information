@@ -4,7 +4,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ReadME Generator</h3>
+  <h3 align="center">ReadME</h3>
 
   <p align="center">
     Project Demonstrating Web API with unit of work and repository pattern.
@@ -25,7 +25,11 @@ Backend: Postgres.
 </p>
 
 ![Downloads](https://img.shields.io/github/downloads/sridhar-hosurkar/Human Resource Info/total) ![Contributors](https://img.shields.io/github/contributors/sridhar-hosurkar/Human Resource Info?color=dark-green) ![Issues](https://img.shields.io/github/issues/sridhar-hosurkar/Human Resource Info) ![License](https://img.shields.io/github/license/sridhar-hosurkar/Human Resource Info) 
-
+<br/>
+<img src="~/images/home.jpg" alt="Home" width="300" height="200">
+<br/>
+<img src="~/images/Add_Edit.jpg" alt="Add/Edit" width="300" height="200">
+<br/>
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
