@@ -1055,6 +1055,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DomainModels >= 1.0.0",
+      "Repository >= 1.0.0",
       "ServiceModels >= 1.0.0",
       "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -1092,6 +1094,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "c:\\net core\\Human Resource\\DomainModels\\DomainModels.csproj": {
+              "projectPath": "c:\\net core\\Human Resource\\DomainModels\\DomainModels.csproj"
+            },
+            "c:\\net core\\Human Resource\\Repository\\Repository.csproj": {
+              "projectPath": "c:\\net core\\Human Resource\\Repository\\Repository.csproj"
+            },
             "c:\\net core\\Human Resource\\ServiceModels\\ServiceModels.csproj": {
               "projectPath": "c:\\net core\\Human Resource\\ServiceModels\\ServiceModels.csproj"
             },

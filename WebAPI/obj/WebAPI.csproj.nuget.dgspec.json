@@ -306,6 +306,12 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "c:\\net core\\Human Resource\\DomainModels\\DomainModels.csproj": {
+                "projectPath": "c:\\net core\\Human Resource\\DomainModels\\DomainModels.csproj"
+              },
+              "c:\\net core\\Human Resource\\Repository\\Repository.csproj": {
+                "projectPath": "c:\\net core\\Human Resource\\Repository\\Repository.csproj"
+              },
               "c:\\net core\\Human Resource\\ServiceModels\\ServiceModels.csproj": {
                 "projectPath": "c:\\net core\\Human Resource\\ServiceModels\\ServiceModels.csproj"
               },

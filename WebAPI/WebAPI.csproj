@@ -10,5 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ServiceModels\ServiceModels.csproj" />
     <ProjectReference Include="..\Services\Services.csproj" />
+    <ProjectReference Include="..\DomainModels\DomainModels.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
   </ItemGroup>
 </Project>
