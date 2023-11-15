@@ -26,9 +26,9 @@ Backend: Postgres.
 
 ![Downloads](https://img.shields.io/github/downloads/sridhar-hosurkar/Human Resource Info/total) ![Contributors](https://img.shields.io/github/contributors/sridhar-hosurkar/Human Resource Info?color=dark-green) ![Issues](https://img.shields.io/github/issues/sridhar-hosurkar/Human Resource Info) ![License](https://img.shields.io/github/license/sridhar-hosurkar/Human Resource Info) 
 <br/>
-<img src="~/images/home.jpg" alt="Home" width="300" height="200">
+<img src="images/home.jpg" alt="Home" width="300" height="200">
 <br/>
-<img src="~/images/Add_Edit.jpg" alt="Add/Edit" width="300" height="200">
+<img src="images/Add_edit.jpg" alt="Add/Edit" width="300" height="200">
 <br/>
 ## Table Of Contents
 
